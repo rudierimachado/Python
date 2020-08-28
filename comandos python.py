@@ -18,3 +18,7 @@ dict - para agrupar elementos que serão recuperados por uma chave
 
 .issupper- mostra se é maiusculo
 .islower-mostra se é minusculo
+
+#bibliotecas
+
+from tkinter import *= criar inerfaces graficas
