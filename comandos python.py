@@ -23,6 +23,7 @@ dict - para agrupar elementos que serão recuperados por uma chave
 .issupper- mostra se é maiusculo
 .islower-mostra se é minusculo
 
+<<<<<<< HEAD
 
 #imports
 import random
@@ -31,3 +32,8 @@ import random
 
 
 
+=======
+#bibliotecas
+
+from tkinter import *= criar inerfaces graficas
+>>>>>>> 1bcbfd323976f4b5c1512ba078513ecc7ffe699e
