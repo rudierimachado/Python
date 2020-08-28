@@ -16,10 +16,9 @@ c = num // 100 % 10
 m = num // 1000 % 10
 
 print(f'\nAnalisando o número {num}...')
-print('\033[2;36m---\033[m' * 22)# linha decorativa(not important)
 
 print(f'Unidade: {u} \nDezena: {d} ')
 print(f'Centena: {c} \nMilhar: {m}')
 
-print('\033[2;36m---\033[m' * 22)# linha decorativa(not important)
+
 
